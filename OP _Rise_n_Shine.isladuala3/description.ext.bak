@@ -1,0 +1,7 @@
+respawnOnStart = -1;
+OnLoadName = "Rise and Shine";
+
+class CfgFunctions 
+{
+	#include "vcom\cfgFunctions.hpp"
+};
